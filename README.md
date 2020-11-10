@@ -12,13 +12,20 @@ Output specification Output T lines, one for each test case, containing the requ
 
 ### Input
 4
+
 1 1
+
 2 2
+
 3 1
+
 3 3
 
 ### Output
 R
+
 L
+
 D
+
 R
